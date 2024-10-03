@@ -1,3 +1,4 @@
+// COMSC 210 | Lab 10 | Niko Dittmar
 #include <iostream>
 using namespace std;
 
