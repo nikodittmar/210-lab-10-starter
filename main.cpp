@@ -3,7 +3,13 @@ using namespace std;
 
 int main() {
 
-    // add any code here, sort of a 'hello world plus' code block
+    cout << "What is your name?\n";
+
+    string name;
+
+    cin >> name;
+
+    cout << "Hello " << name << "!!";
 
     return 0;
 }
